@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/double-conversion-1.1.6/src/fast-dtoa.cc \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/double-conversion-1.1.6/src/fast-dtoa.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/double-conversion-1.1.6/src/utils.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/double-conversion-1.1.6/src/cached-powers.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/double-conversion-1.1.6/src/diy-fp.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/double-conversion-1.1.6/src/ieee.h

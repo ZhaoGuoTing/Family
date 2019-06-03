@@ -1,0 +1,8 @@
+dependencies: \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Base/Surface/RCTSurfaceRootView.mm \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Base/Surface/RCTSurfaceRootView.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Views/RCTView.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Base/RCTDefines.h

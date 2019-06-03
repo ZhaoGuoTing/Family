@@ -1,0 +1,15 @@
+dependencies: \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.mm \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/Libraries/Network/RCTHTTPRequestHandler.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/Libraries/Network/RCTNetworking.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h

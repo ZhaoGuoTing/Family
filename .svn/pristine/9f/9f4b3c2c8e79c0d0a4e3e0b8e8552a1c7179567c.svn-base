@@ -1,0 +1,13 @@
+dependencies: \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/glog-0.3.5/src/utilities.cc \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/glog-0.3.5/src/utilities.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/glog-0.3.5/src/base/mutex.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/glog-0.3.5/src/config.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/glog-0.3.5/src/glog/logging.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/glog-0.3.5/src/glog/log_severity.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/glog-0.3.5/src/glog/vlog_is_on.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/glog-0.3.5/src/base/googleinit.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/glog-0.3.5/src/stacktrace.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/glog-0.3.5/src/symbolize.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/glog-0.3.5/src/base/commandlineflags.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/third-party/glog-0.3.5/src/stacktrace_x86_64-inl.h

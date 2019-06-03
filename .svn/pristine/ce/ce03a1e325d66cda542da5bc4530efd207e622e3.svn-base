@@ -1,0 +1,5 @@
+ extern const unsigned char bbw_rnVersionString[];
+ extern const double bbw_rnVersionNumber;
+
+ const unsigned char bbw_rnVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:bbw_rn  PROJECT:bbw_rn-1" "\n";
+ const double bbw_rnVersionNumber __attribute__ ((used)) = (double)1.;

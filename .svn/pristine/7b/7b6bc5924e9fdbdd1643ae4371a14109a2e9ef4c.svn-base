@@ -1,0 +1,56 @@
+import React, {Component} from 'react';
+import {Platform, StyleSheet, Text, View} from 'react-native';
+
+import NavigationUtil from "../navigator/NavigationUtil";
+
+export default class WelcomePage extends Component {
+
+    constructor(props) {
+        super(props);
+        this.state = {
+
+        }
+    }
+
+    // 生命周期 componentDidMount 在第一次渲染后调用，只在客户端
+    componentDidMount(){
+        // 定时器、希望启动页停留几秒后，进入首页
+        this.timer = setTimeout(()=>{
+            NavigationUtil.resetToHomePage({
+                navigation: this.props.navigation
+            })
+            // this.props.navigation.navigate('Main')
+        },2000);
+
+    }
+    // 生命周期 componentWillUnMount 在组件从 DOM 中移除之前立刻被调用。
+    componentWillUnmount(){
+        this.timer && clearTimeout(this.timer);
+    }
+    render() {
+        return(
+            <View style={styles.container}>
+                <Text>启动图</Text>
+            </View>
+        )
+    }
+}
+
+const styles = StyleSheet.create({
+    container: {
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: '#F5FCFF',
+    },
+    welcome: {
+        fontSize: 20,
+        textAlign: 'center',
+        margin: 10,
+    },
+    instructions: {
+        textAlign: 'center',
+        color: '#333333',
+        marginBottom: 5,
+    },
+});

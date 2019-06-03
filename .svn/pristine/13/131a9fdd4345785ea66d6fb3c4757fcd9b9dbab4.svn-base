@@ -1,0 +1,12 @@
+dependencies: \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Base/Surface/RCTSurfaceView.mm \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Base/Surface/RCTSurfaceView.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Base/Surface/RCTSurfaceView+Internal.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Base/Surface/RCTSurfaceRootView.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Views/RCTView.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/zhaokunitei/bbw_rn/trunk/bbw_rn/node_modules/react-native/React/Views/RCTPointerEvents.h
